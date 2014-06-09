@@ -1,7 +1,8 @@
-Chromium (64bit) - debian_flashplayer v.14        
+Chromium v35+ (64bit) - debian flash player v.14        
 ==================
 
 
+install instructions:
 
 1. download the player.so and put it in the browser's plugin directory ( /usr/lib/chromium/plugins/)
 
